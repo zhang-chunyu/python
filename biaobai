@@ -4,7 +4,7 @@ import time
 
 def xiaojuanjuan():
 
-    str = "小娟娟，么么哒"  # input('请输入表白语：')
+    str = "爱你呦"  # input('请输入表白语：')
     turtle.speed(20)
     turtle.setup(1800,700,70,70)
     turtle.color('blue', 'pink')
